@@ -1,4 +1,4 @@
-# Discord Bot Executable & Build Guide (Educational Project)
+# Discord RAT Executable & Build Guide 
 
 > ** AVISO IMPORTANTE Y RENUNCIA DE RESPONSABILIDAD**  
 > Este proyecto ha sido desarrollado **exclusivamente con fines educativos y de concienciación sobre seguridad informática**. Muestra cómo estructurar un bot de Discord, compilarlo en un ejecutable y por qué **nunca** se deben incrustar credenciales dentro del binario.
